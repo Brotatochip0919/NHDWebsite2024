@@ -1,9 +1,9 @@
 @font-face {
-  font-family: VCR;
+  font-family: "VCR";
   src: url(VCR_OSD_MONO.ttf);
 }
 @font-face {
-  font-family: Karma;
+  font-family: "Karma";
   src: url(KarmaFuture.ttf);
 }
 
