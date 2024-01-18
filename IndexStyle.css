@@ -1,3 +1,12 @@
+@font-face {
+  font-family: VCR;
+  src: url(VCR_OSD_MONO.ttf);
+}
+@font-face {
+  font-family: Karma;
+  src: url(KarmaFuture.ttf);
+}
+
 html {
   background-color: rgb(15, 15, 15);
 }
@@ -20,7 +29,7 @@ body::after {
 }
 
 .Title {
-  font-family: "Courier New", Courier, monospace;
+  font-family: VCR;
   color: green;
   font-size: 6vh;
   text-shadow: 0px 0px 20px green;
