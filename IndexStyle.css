@@ -29,8 +29,9 @@ body::after {
 }
 
 .Title {
+  text-align: center;
   font-family: VCR;
   color: green;
-  font-size: 6vh;
-  text-shadow: 0px 0px 20px green;
+  font-size: 10vh;
+  text-shadow: 0px 0px 0.1vh green;
 }
