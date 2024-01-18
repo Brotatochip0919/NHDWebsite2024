@@ -28,10 +28,18 @@ body::after {
   opacity: 1;
 }
 
-.Title {
+.title {
   text-align: center;
   font-family: VCR;
   color: green;
-  font-size: 10vh;
-  text-shadow: 0px 0px 0.1vh green;
+  font-size: 10vw;
+  text-shadow: 0px 0px 1.5vh green;
+}
+
+.subtitle {
+  text-align: center;
+  font-family: Karma;
+  color: green;
+  font-size: 6vw;
+  text-shadow: 0px 0px 1vh green;
 }
