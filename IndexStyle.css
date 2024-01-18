@@ -53,5 +53,10 @@ body::after {
   height: 4vw;
   
 }
-
+.NHDStuff {
+  font-size: 3vw;
+  font-family: VCR;
+  color: white;
+  text-shadow: 0px 0px 5vw white;
+}
 
