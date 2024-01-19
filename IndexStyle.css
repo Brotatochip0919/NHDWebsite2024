@@ -73,6 +73,7 @@ body::after {
 }
 .tab-text {
   vertical-align: middle;
+  line-height: 4vw;
   font-size: 2vh;
   font-family: VCR;
   text-align: center;
