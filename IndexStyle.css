@@ -66,12 +66,14 @@ body::after {
   width: 6vw;
   height: 4vw;
   text-align: center;
-  padding-left: 1.5vw;
-  padding-right: 1.5vw;
+  
   
   
 }
 .tab-text {
+  padding-left: 1.5vw;
+  padding-right: 1.5vw;
+  width: 100%;
   vertical-align: middle;
   line-height: 4vw;
   font-size: 1vw;
