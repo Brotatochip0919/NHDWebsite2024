@@ -74,7 +74,7 @@ body::after {
 .tab-text {
   vertical-align: middle;
   line-height: 4vw;
-  font-size: 2vh;
+  font-size: 2vw;
   font-family: VCR;
   text-align: center;
   color: rgb(180,180,180);
