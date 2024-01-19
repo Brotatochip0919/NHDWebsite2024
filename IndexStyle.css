@@ -60,3 +60,10 @@ body::after {
   text-shadow: 0px 0px 5vw white;
 }
 
+.tab {
+  background-color: rgb(60,60,60);
+  width: 3vw;
+  height: 4vw;
+  font-size: 2vh;
+  font-family: VCR;
+}
