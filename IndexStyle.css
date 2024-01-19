@@ -62,7 +62,6 @@ body::after {
 }
 
 .tab {
-  padding: 10px;
   background-color: rgb(60,60,60);
   width: 6vw;
   height: 4vw;
