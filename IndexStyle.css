@@ -65,17 +65,22 @@ body::after {
   background-color: rgb(60,60,60);
   width: 6vw;
   height: 4vw;
+  text-align: center;
+  padding-left: 1.5vw;
+  padding-right: 1.5vw;
+  
+  
+}
+.tab-text {
+  vertical-align: middle;
   font-size: 2vh;
   font-family: VCR;
   text-align: center;
-  vertical-align: text-top;
-  padding-left: 1.5vw;
-  padding-right: 1.5vw;
   color: rgb(180,180,180);
   
 }
 
 .tab: hover {
-  background-color: rgb(80,80,80);
-  color: white;
+  background-color: rgb(120,120,120);
+  
   
