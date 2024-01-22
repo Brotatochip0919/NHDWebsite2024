@@ -46,6 +46,7 @@ body::after {
 
 .taskbar {
   background-color: rgb(40,40,40);
+  justify-content: space-around;
   position: sticky;
   position: -webkit-sticky;
   bottom: 0;
@@ -63,7 +64,8 @@ body::after {
 
 .tab {
   background-color: rgb(60,60,60);
-  width: 6vw;
+  width: 100%;
+  margin: 2vw;
   height: 4vw;
   text-align: center;
   
