@@ -46,12 +46,14 @@ body::after {
 
 .taskbar {
   background-color: rgb(40,40,40);
+  display: -webkit-inline-box;
   justify-content: space-around;
   position: sticky;
   position: -webkit-sticky;
   bottom: 0;
-  width: 100%;
+  width: 24.7vw;
   height: 4vw;
+  text-align: center;
   
 }
 .NHDStuff {
@@ -65,7 +67,6 @@ body::after {
 .tab {
   background-color: rgb(60,60,60);
   width: 100%;
-  margin: 2vw;
   height: 4vw;
   text-align: center;
   
