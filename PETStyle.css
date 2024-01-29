@@ -27,3 +27,77 @@ body::after {
   pointer-events: none;
   opacity: 1;
 }
+
+.title {
+  text-align: center;
+  font-family: VCR;
+  color: green;
+  font-size: 11vw;
+  text-shadow: 0px 0px 8vh green;
+  margin-bottom: 25vh;
+}
+
+.subtitle {
+  text-align: center;
+  font-family: Karma;
+  color: green;
+  font-size: 5vw;
+  text-shadow: 0px 0px 4vh green;
+}
+
+.taskbar {
+  background-color: rgb(40,40,40);
+  display: -webkit-inline-box;
+  justify-content: space-around;
+  position: sticky;
+  position: -webkit-sticky;
+  bottom: 0;
+  width: 25%;
+  height: 4vw;
+  text-align: center;
+  
+}
+.NHDStuff {
+  font-size: 3vw;
+  text-align: center;
+  font-family: VCR;
+  color: white;
+  text-shadow: 0px 0px 5vw white;
+}
+
+.tab {
+  background-color: rgb(60,60,60);
+  width: 100%;
+  height: 4vw;
+  text-align: center;  
+}
+
+.tab-text {
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+  vertical-align: middle;
+  line-height: 4vw;
+  font-size: 1vw;
+  font-family: VCR;
+  text-align: center;
+  color: rgb(180,180,180);
+  
+}
+
+.tab:hover {
+  background-color: rgb(120,120,120);
+}
+
+.p-sec {
+  margin: 4vw;
+  width: 75%;
+}
+
+.paragraph {
+  font-family: VCR;
+  font-size: 2vw
+  color: white;
+  text-shadow: 0px 0px 3px white;
+}
