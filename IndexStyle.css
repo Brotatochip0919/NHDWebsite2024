@@ -52,7 +52,7 @@ body::after {
   position: sticky;
   position: -webkit-sticky;
   bottom: 0;
-  width: 24.7vw;
+  width: 25%;
   height: 4vw;
   text-align: center;
   
@@ -73,6 +73,7 @@ body::after {
 }
 
 .tab-text {
+  display: block;
   width: 100%;
   height: 100%;
   text-decoration: none;
@@ -89,3 +90,6 @@ body::after {
   background-color: rgb(120,120,120);
 }
   
+.blank-link{
+  text-decoration: none;
+}
