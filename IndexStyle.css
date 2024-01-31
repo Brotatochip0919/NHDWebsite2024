@@ -3,6 +3,10 @@
   src: url(VCR_OSD_MONO.ttf);
 }
 @font-face {
+  font-family: Gamer;
+  src: url(Gamer.ttf);
+}
+@font-face {
   font-family: Karma;
   src: url(KarmaFuture.ttf);
 }
@@ -39,7 +43,7 @@ body::after {
 
 .subtitle {
   text-align: center;
-  font-family: Karma;
+  font-family: Gamer;
   color: green;
   font-size: 5vw;
   text-shadow: 0px 0px 4vh green;
