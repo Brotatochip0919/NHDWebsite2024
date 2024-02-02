@@ -50,7 +50,7 @@ body::after {
 }
 
 .taskbar {
-  background-color: rgb(40,40,40);
+  background-color: rgb(40, 40, 40);
   display: -webkit-inline-box;
   justify-content: space-around;
   position: sticky;
@@ -59,7 +59,6 @@ body::after {
   width: 25%;
   height: 4vw;
   text-align: center;
-  
 }
 .NHDStuff {
   font-size: 3vw;
@@ -70,10 +69,10 @@ body::after {
 }
 
 .tab {
-  background-color: rgb(60,60,60);
+  background-color: rgb(60, 60, 60);
   width: 100%;
   height: 4vw;
-  text-align: center;  
+  text-align: center;
 }
 
 .tab-text {
@@ -86,14 +85,13 @@ body::after {
   font-size: 1vw;
   font-family: VCR;
   text-align: center;
-  color: rgb(180,180,180);
-  
+  color: rgb(180, 180, 180);
 }
 
 .tab:hover {
-  background-color: rgb(120,120,120);
+  background-color: rgb(120, 120, 120);
 }
-  
-.blank-link{
+
+.blank-link {
   text-decoration: none;
 }
