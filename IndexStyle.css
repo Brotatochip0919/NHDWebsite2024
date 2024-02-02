@@ -13,6 +13,7 @@
 
 html {
   background-color: rgb(15, 15, 15);
+  margin: 0;
 }
 
 body::after {
@@ -50,6 +51,7 @@ body::after {
 }
 
 .taskbar {
+  overflow: hidden;
   background-color: rgb(40, 40, 40);
   display: -webkit-inline-box;
   justify-content: space-around;
@@ -69,6 +71,7 @@ body::after {
 }
 
 .tab {
+  float: left;
   background-color: rgb(60, 60, 60);
   width: 100%;
   height: 4vw;
