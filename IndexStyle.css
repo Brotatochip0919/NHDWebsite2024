@@ -72,11 +72,11 @@ body::after {
   float: left;
   display: block;
   background-color: rgb(60, 60, 60);
-  padding: 4vw 7vw;
+  padding: 1.5vw 0.1vw;
   text-align: center;
   color: rgb(200, 200, 200);
   font-family: VCR;
-  font-size: 2vw;
+  font-size: 1vw;
   text-decoration: none;
 }
 
