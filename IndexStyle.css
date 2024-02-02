@@ -56,12 +56,9 @@ body::after {
 .taskbar {
   overflow: hidden;
   background-color: rgb(40, 40, 40);
-  display: -webkit-inline-box;
-  justify-content: space-around;
-  position: sticky;
-  position: -webkit-sticky;
+  position: fixed;
   bottom: 0;
-  text-align: center;
+  width: 100%;
 }
 .NHDStuff {
   font-size: 3vw;
@@ -73,9 +70,9 @@ body::after {
 
 .taskbar a {
   float: left;
+  display: block;
   background-color: rgb(60, 60, 60);
-  width: 25%;
-  padding: 2vw 2vw;
+  padding: 4vw 7vw;
   text-align: center;
   color: rgb(200, 200, 200);
   font-family: VCR;
