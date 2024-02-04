@@ -81,8 +81,8 @@ body::after {
   text-decoration: none;
 }
 
-.active {
-  background-color: rgb(160, 160, 160);
+.topnav a.active {
+  background-color: rgb(200, 200, 200);
   color: rgb(40, 40, 40);
 }
 

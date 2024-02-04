@@ -118,8 +118,8 @@ body::after {
   box-shadow: 0px 0px 5px white;
 }
 
-.active {
-  background-color: rgb(160, 160, 160);
+.topnav a.active {
+  background-color: rgb(200, 200, 200);
   color: rgb(40, 40, 40);
 }
 
