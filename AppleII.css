@@ -71,7 +71,7 @@ body::after {
   display: block;
   background-color: rgb(60, 60, 60);
   padding: 1.5vw 0vw;
-  width: 25%;
+  width: 16.6666%;
   text-align: center;
   color: rgb(200, 200, 200);
   font-family: VCR;
@@ -116,4 +116,13 @@ body::after {
 .image {
   margin-bottom: 5vh;
   box-shadow: 0px 0px 5px white;
+}
+
+.active {
+  background-color: rgb(160, 160, 160);
+  color: rgb(40, 40, 40);
+}
+
+.mgb {
+  margin-bottom: 10vw;
 }
