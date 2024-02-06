@@ -134,3 +134,12 @@ body::after {
   background-color: rgb(200, 200, 200);
   color: rgb(40, 40, 40);
 }
+
+.quote {
+  color: rgb(180,180,180);
+  font-family: VCR;
+  font-size: 3vw;
+  text-align: center;
+  line-height: 2.8vw;
+  text-shadow: 0px 0px 5px rgb(180,180,180);
+}
