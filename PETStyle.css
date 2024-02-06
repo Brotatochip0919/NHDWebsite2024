@@ -143,3 +143,7 @@ body::after {
   line-height: 2.8vw;
   text-shadow: 0px 0px 5px rgb(180,180,180);
 }
+
+.quote-div {
+  float: right;
+}
