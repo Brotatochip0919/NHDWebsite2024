@@ -145,5 +145,6 @@ body::after {
 }
 
 .quote-div {
+  width: 10vw;
   float: right;
 }
