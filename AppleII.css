@@ -126,3 +126,16 @@ body::after {
 .mgb {
   margin-bottom: 10vw;
 }
+
+.caption {
+  font-family: VCR;
+  font-size: 1vw;
+  color: white;
+  text-align: center;
+}
+
+.img-cap {
+  margin: auto;
+  margin-bottom: 5vw;
+  width: auto;
+}

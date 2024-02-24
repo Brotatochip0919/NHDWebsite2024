@@ -160,4 +160,5 @@ body::after {
 .img-cap {
   margin: auto;
   margin-bottom: 5vw;
+  width: auto;
 }
