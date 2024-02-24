@@ -157,3 +157,7 @@ body::after {
   color: white;
   text-align: center;
 }
+
+.img-cap {
+  margin: auto;
+}
