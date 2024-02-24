@@ -109,6 +109,7 @@ body::after {
 
 .list-btn {
   float: left;
+  border: none;
   display: block;
   background-color: rgb(60, 60, 60);
   padding: 1.5vw 0vw;
@@ -127,6 +128,7 @@ body::after {
   z-index: 1;
 }
 .drop-cont a {
+  float: none;
   color: rgb(200, 200, 200);
   background-color: rgb(60, 60, 60);
   padding: 1.5vw 0vw;
