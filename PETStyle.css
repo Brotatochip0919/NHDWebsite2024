@@ -151,7 +151,7 @@ body::after {
   box-shadow: 0px 0px 5px white;
 }
 
-figcaption {
+caption {
   font-family: VCR;
   font-size: 1vw;
   color: white;
