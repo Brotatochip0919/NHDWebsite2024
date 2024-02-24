@@ -150,3 +150,9 @@ body::after {
   border: 3px solid white;
   box-shadow: 0px 0px 5px white;
 }
+
+figcaption {
+  font-family: VCR;
+  font-size: 1vw;
+  color: white;
+}

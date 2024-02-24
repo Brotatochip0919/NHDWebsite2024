@@ -142,6 +142,7 @@ body::after {
 .dropdown:hover .drop-cont {
   display: block;
 }
+
 figcaption {
   font-family: VCR;
   font-size: 1vw;
