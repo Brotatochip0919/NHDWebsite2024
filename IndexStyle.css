@@ -143,8 +143,15 @@ body::after {
   display: block;
 }
 
-figcaption {
+.caption {
   font-family: VCR;
   font-size: 1vw;
   color: white;
+  text-align: center;
+}
+
+.img-cap {
+  margin: auto;
+  margin-bottom: 5vw;
+  width: auto;
 }
